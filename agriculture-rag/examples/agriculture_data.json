@@ -1,0 +1,35 @@
+[
+  {
+    "id": "Cotton",
+    "question": "What grows in black soil?",
+    "answer": "Cotton grows best in black soil.",
+    "category": "crop",
+    "soil": "black"
+  },
+  {
+    "id": "Rice",
+    "question": "What grows in clay soil?",
+    "answer": "Rice grows well in clay soil.",
+    "category": "crop",
+    "soil": "clay"
+  },
+  {
+    "id": "Wheat",
+    "question": "What grows in loamy soil?",
+    "answer": "Wheat grows well in loamy soil.",
+    "category": "crop",
+    "soil": "loamy"
+  },
+  {
+    "id": "Leaf curl",
+    "question": "What disease affects cotton?",
+    "answer": "Leaf curl disease affects cotton.",
+    "category": "disease"
+  },
+  {
+    "id": "Drip irrigation",
+    "question": "What irrigation saves water?",
+    "answer": "Drip irrigation saves water.",
+    "category": "irrigation"
+  }
+]

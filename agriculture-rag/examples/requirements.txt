@@ -1,0 +1,5 @@
+sentence-transformers
+requests
+msgpack
+numpy
+google-genai
